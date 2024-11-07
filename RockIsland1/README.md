@@ -22,6 +22,10 @@
   Database > orkney\_postcodes\_randomly\_selected, check "Update data on
   the model startup".
 
+- Once the postcode csv has been converted to a .xlsx, the AnyLogic model
+  needs to be manually pointed to the .xlsx file. This is done through the
+  database properties (this should only need to be done once).
+
 # Sources
 
 [1] List of postcodes in Orkney
